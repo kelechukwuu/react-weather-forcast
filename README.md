@@ -6,17 +6,23 @@
 ![alt image](./public/screenshot/Screenshot%202025-11-21%20at%205.36.10%20PM.png)
 ![alt image](./public/screenshot/Screenshot%202025-11-21%20at%205.36.52%20PM.png)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🌦️ Weather Forecast App
 
-Currently, two official plugins are available:
+A modern and responsive weather forecast application designed to deliver real-time weather updates with a sleek UI.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
 
-## React Compiler
+- **React** – Core framework for building the app’s interactive UI  
+- **MUI (Material-UI)** – Provides ready-to-use, customizable UI components  
+- **Axios** – Handles API requests to fetch live weather data  
+- **Tailwind CSS** – Utility-first CSS framework for fast and flexible styling  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- Real-time weather data from external APIs  
+- Clean and responsive design across devices  
+- Easy-to-use interface with Material-UI components  
+- Fast performance with Axios and React hooks  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+Built with ❤️ using **MUI, React, Axios, and Tailwind CSS**.
